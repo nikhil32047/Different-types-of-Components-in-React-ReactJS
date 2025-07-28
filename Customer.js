@@ -4,7 +4,7 @@
 function Customer()
 {
     return(
-        <h1>Welcome to Functional Component...</h1>
+        <h1>Welcome to Functional Component Using Name_Full function...</h1>
     )
 }
 export default Customer;
@@ -20,7 +20,7 @@ var Customer=function()
 export default Customer;
 
 
-"Functional Component(Name_Less function)"
+"Functional Component(Arrow function)"
 var Customer=()=>
 {
     return(
